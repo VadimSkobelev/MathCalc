@@ -20,7 +20,7 @@
 4-2=2
 ```
 
-Готовый исполняемый файл [MathsCalc.exe](https://github.com/VadimSkobelev/MATHSCALC/blob/master/exec/MathsCalc.exe)
+Готовый исполняемый файл [MathsCalc.exe](https://github.com/VadimSkobelev/MATHSCALC/raw/master/exec/MathsCalc.exe)
 
 При запуске использует файл **input.txt** в качестве входных данных.
 
